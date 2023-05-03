@@ -1,0 +1,8 @@
+{
+  "chefPicture": "path/to/chef_picture.jpg",
+  "chefName": "Chef John Doe",
+  "bio": "A passionate chef with a flair for creating delicious and innovative dishes.",
+  "likes": 5000,
+  "numRecipes": 10,
+  "yearsOfExperience": 15
+}
