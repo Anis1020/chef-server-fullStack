@@ -6,11 +6,13 @@ const port = process.env.PORT || 5000;
 const chefData = require("./data/chefData.json");
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.send("server is running");
-});
 app.get("/chef", (req, res) => {
   res.send(chefData);
+});
+app.get("recipe/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefData.find((c) => c.id == id);
+  res.send(selectedChef);
 });
 
 app.listen(port, () => {
