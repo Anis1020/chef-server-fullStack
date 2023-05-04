@@ -9,8 +9,9 @@ app.use(cors());
 app.get("/chef", (req, res) => {
   res.send(chefData);
 });
-app.get("recipe/:id", (req, res) => {
+app.get("/chef/:id", (req, res) => {
   const id = req.params.id;
+  console.log(id);
   const selectedChef = chefData.find((c) => c.id == id);
   res.send(selectedChef);
 });
