@@ -2,7 +2,7 @@
   "chefs": [
     {
       "id": 1,
-      "chefPicture": "path/to/chef1_picture.jpg",
+      "chefPicture": "https://thumbs.dreamstime.com/b/chef-woman-gesturing-ok-confident-sign-vector-illustration-116211561.jpg",
       "chefName": "Chef John Doe",
       "bio": "A passionate chef with a flair for creating delicious and innovative dishes.",
       "likes": 5000,
@@ -49,7 +49,7 @@
     },
     {
       "id": 2,
-      "chefPicture": "path/to/chef2_picture.jpg",
+      "chefPicture": "https://thumbs.dreamstime.com/z/cartoon-character-chef-woman-holding-burger-cheese-plate-117864245.jpg",
       "chefName": "Chef Jane Smith",
       "bio": "An experienced chef specializing in international cuisines.",
       "likes": 3500,
@@ -96,7 +96,7 @@
     },
     {
       "id": 3,
-      "chefPicture": "path/to/chef3_picture.jpg",
+      "chefPicture": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "chefName": "Chef David Johnson",
       "bio": "A culinary expert with a focus on farm-to-table cooking and sustainable ingredients.",
       "likes": 7000,
@@ -144,7 +144,7 @@
     },
     {
       "id": 4,
-      "chefPicture": "path/to/chef4_picture.jpg",
+      "chefPicture": "https://thumbs.dreamstime.com/b/chef-woman-gesturing-ok-confident-sign-vector-illustration-116211561.jpg",
       "chefName": "Chef Sarah Thompson",
       "bio": "An award-winning chef known for her creative fusion dishes.",
       "likes": 4500,
@@ -191,7 +191,7 @@
     },
     {
       "id": 5,
-      "chefPicture": "path/to/chef5_picture.jpg",
+      "chefPicture": "https://thumbs.dreamstime.com/z/cartoon-character-chef-woman-holding-burger-cheese-plate-117864245.jpg",
       "chefName": "Chef Michael Brown",
       "bio": "A master of traditional cooking techniques with a modern twist.",
       "likes": 6000,
@@ -238,7 +238,7 @@
     },
     {
       "id": 6,
-      "chefPicture": "path/to/chef6_picture.jpg",
+      "chefPicture": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=600",
       "chefName": "Chef Emily Wilson",
       "bio": "A rising star in the culinary world with a focus on healthy and organic cuisine.",
       "likes": 5500,
